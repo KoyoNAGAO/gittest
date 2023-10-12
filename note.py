@@ -6,3 +6,4 @@ print('aaa')
 
 #%%
 print('cucumber')
+print('hosaki')
